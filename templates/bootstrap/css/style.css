@@ -6,4 +6,9 @@ body{
     margin:0;
     padding:0;
 }
-
+@media(min-width: 1366px){
+	#img{
+		display: block;
+		margin-left: -1%;
+	}
+}

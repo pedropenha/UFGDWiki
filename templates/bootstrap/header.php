@@ -54,7 +54,9 @@
   </head>
   
   <body>
-    <img src="http://egressos.16mb.com/assets/img/logo-ufgd.png" id="img">
+    <div class="container">
+      <img src="http://egressos.16mb.com/assets/img/logo-ufgd.png" id="img">
+    </div>
 	
     <!-- BEGIN PAGE WRAPPER -->
     <div id="page" class="container">
