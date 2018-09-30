@@ -49,6 +49,7 @@
       <link rel="stylesheet" type="text/css" href="<?php printf('%s/%s?%s',
           $bootstrap->theme_css_path, 'bootstrap-responsive.css',
           $bootstrap->theme_hash) ?>" />
+      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
 
   </head>
   
@@ -83,7 +84,7 @@
                 $dominio = $_SERVER['BASE_URL'];
                 ?>
                 <!-- Be sure to leave the brand out there if you want it shown -->
-                <a class="brand" href="<?php echo $dominio;?>">UFGDWiki</a>
+                <a class="brand" href="<?php echo $dominio;?>"><i class="fas fa-home"></i></a>
 
                 <!-- Everything you want hidden at 940px or less, place within here -->
                 <div class="nav-collapse collapse">

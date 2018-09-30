@@ -23,11 +23,11 @@
     <div id="footer">
       <div class="container">
         <p>
-          Template theme built with <?php echo $footer_helper->link(
+          Template feito com <?php echo $footer_helper->link(
             'http://twitter.github.io/bootstrap/', 'Bootstrap'); ?>
         </p>
         <p>
-          Powered by <?php echo $footer_helper->link('http://wikkawiki.org/',
+          Distribuído por <?php echo $footer_helper->link('http://wikkawiki.org/',
             T_("WikkaWiki")); ?>
           <?php
             if ($footer_helper->is_admin) {
@@ -35,19 +35,6 @@
             }
           ?>
         </p>
-        <ul class="footer-links">
-          <li>
-            <?php echo $footer_helper->link(
-                'http://validator.w3.org/check/referer',
-                T_("Valid XHTML")); ?>
-          </li>
-          <li class="muted">&middot;</li>
-          <li>
-            <?php echo $footer_helper->link(
-                'http://jigsaw.w3.org/css-validator/check/referer',
-                T_("Valid CSS")); ?>
-          </li>
-        </ul>
       </div>
     </div>
     <!-- END FOOTER -->
