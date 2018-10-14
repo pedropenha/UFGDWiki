@@ -11,9 +11,8 @@ $BootstrapMenus = array(
 				'WikkaConfig'
 			)),
 			'[[Categorias|Categorias]]',
-			'RecentChanges',
-			'RecentlyCommented',
-			array('Profile' => array(
+			'[[RecentChanges|Recentemente modificados]]',
+			array('Perfil' => array(
 				'[[<<username>>|Minha página de Usuario]]',
 				'[[UserSettings|Configurações]]',
 				'<<logout>>',
@@ -21,9 +20,7 @@ $BootstrapMenus = array(
 		),
 		'user' => array(
 			'[[Categorias|Categorias]]',
-			'RecentChanges',
-			'RecentlyCommented',
-			array('Profile' => array(
+			array('Perfil' => array(
 				'[[<<username>>|Minha página de usuario]]',
 				'[[UserSettings|Configurações]]',
 				'<<logout>>',
@@ -31,7 +28,6 @@ $BootstrapMenus = array(
 		),
 		'default' => array(
 			'[[Categorias|Categorias]]',
-			'RecentlyCommented',
 			'[[UserSettings|Entrar/Cadastrar-se]]',
 		)
 	),
@@ -49,19 +45,15 @@ $BootstrapMenus = array(
 			'{{referrerslink}}'
 		),
 		'user' => array(
-            '{{newpage menu="1" size="20"}}',
-			'{{editlink}}',
 			'{{clonelink}}',
 			'{{historylink}}',
 			'{{revisionlink}}',
 			'{{ownerlink}}'
 		),
 		'default' => array(
-			'{{editlink}}',
 			'{{historylink}}',
 			'{{revisionlink}}',
 			'{{ownerlink}}',
-			'Your hostname is {{whoami}}'
 		),
 	),
 );

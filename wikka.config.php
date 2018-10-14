@@ -8,7 +8,7 @@
  */
 $wakkaConfig = array(
 	'dbms_host' => 'localhost',
-	'dbms_database' => 'WikkaWiki',
+	'dbms_database' => 'wikka',
 	'dbms_user' => 'root',
 	'dbms_type' => 'mysql',
 	'supported_dbms' => 'mysql, sqlite',
@@ -54,7 +54,7 @@ $wakkaConfig = array(
 	'default_read_acl' => '*',
 	'default_comment_read_acl' => '!*',
 	'default_comment_post_acl' => '!*',
-	'allow_user_registration' => '1',
+	'allow_user_registration' => '0',
 	'enable_version_check' => '1',
 	'version_check_interval' => '1h',
 	'default_lang' => 'en',
@@ -70,7 +70,7 @@ $wakkaConfig = array(
 	'breadcrumb_node_delimiter' => '>',
 	'num_breadcrumb_nodes' => '5',
 	'wakka_version' => '1.4.1',
-	'dbms_password' => '',
+	'dbms_password' => '1234',
 	'meta_keywords' => '',
 	'meta_description' => '',
 	'stylesheet_hash' => '74fd2');

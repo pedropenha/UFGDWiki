@@ -23,17 +23,11 @@
     <div id="footer">
       <div class="container">
         <p>
-          Template feito com <?php echo $footer_helper->link(
-            'http://twitter.github.io/bootstrap/', 'Bootstrap'); ?>
+          Projeto feito por: <a href="PedroPenha">Pedro Henrique Penha Martins</a>
         </p>
         <p>
-          Distribuído por <?php echo $footer_helper->link('http://wikkawiki.org/',
-            T_("WikkaWiki")); ?>
-          <?php
-            if ($footer_helper->is_admin) {
-                sprintf('v%s', $footer_helper->wikka_version);
-            }
-          ?>
+          Distribuído por: <a href="https://ufgd.edu.br" target='_Blank'>Universidade Federal
+Da Grande Dourados</a>
         </p>
       </div>
     </div>

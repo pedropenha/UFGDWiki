@@ -1,7 +1,4 @@
 <?php
-  # TODO: remove this
-  error_reporting(E_ALL);
-  
   # init bootstrap helper
   require_once($this->GetThemePath('/') . '/bootstrap_helper.php');
   $bootstrap = new BootstrapHelper($this);
@@ -19,6 +16,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="generator" content="WikkaWiki" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="shortcut icon" type="image/png" href="http://egressos.16mb.com/favicon.png"/>
     <meta name="keywords" content="<?php echo
       $bootstrap->config_ent("meta_keywords"); ?>" />
     <meta name="description" content="<?php echo
