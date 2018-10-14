@@ -49,7 +49,53 @@ $highlight_note = '';
 $edit_note_field = '';
 $note = '';
 $ondblclick = ''; //#123
-$body = '';
+$body = '
+======Titulo muito grande======
+=====Titulo grande=====
+====Titulo médio====
+===Titulo pequeno===
+==Titulo muito pequeno==
+
+**Negrito**
+
+//Itálico//
+
+__Sublinhado__
+
+++Riscado++
+
+{{color text="Insira seu texto aqui e em c adicione a cor em ingles" c="red"}}
+
+##mono-espaçado##
+
+\'\'Realçar\'\'
+
+#%Chave#%
+
+<<Á direita<<
+
+>>Á esquerda>>
+
+@@Texto no centro@@
+
+	- Lista
+	1) Lista numerada
+	
+ Linha horizontal
+----
+[[https://ufgd.edu.br Link externo]]
+
+{{image url="egressos.16mb.com/favicon.png" title="Imagem logo ufgd" alt="Imagem"}}
+
+|=|Cabeçalho 1|=|Cabeçalho 2||
+||Celulas||Celulas||
+
+""<p>Inserção especial de código HTML</p>""
+
+%%(C)
+printf("Inserção especial de códigos");
+%%
+';
 $wakkaconfig['uploads'];
 // cancel operation and return to page
 if($this->GetSafeVar('cancel', 'post') == T_("Cancel"))

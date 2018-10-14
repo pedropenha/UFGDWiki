@@ -69,8 +69,8 @@ if (isset($_POST['pagename']))
 	}
 	else
 	{
-        $this->SetRedirectMessage('Please provide a new page name to create');
-        $this->Redirect();
+        $this->SetRedirectMessage('Por favor, clique em "create", para criar a página');
+        $this->Redirect($pagename);
 	}
 }
 
@@ -87,7 +87,7 @@ if ($showform)
 	} else { // Menulet formatting
 	  ?>
 		<?php echo $this->FormOpen(); ?>
-			<input type="text" name="pagename" size=<?php echo $size; ?> maxlength=<?php echo $maxlength; ?> value="<?php echo $pagename; ?>" /> <input type="submit" value="<?php echo T_("New page"); ?>" />
+			<input type="text" name="pagename" size=<?php echo $size; ?> maxlength=<?php echo $maxlength; ?> value="<?php echo $pagename; ?>" /> <input type="submit" value="<?php echo T_("Nova página"); ?>" />
 		<?php echo $this->FormClose();
 	}
 }

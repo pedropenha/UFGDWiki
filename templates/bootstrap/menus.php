@@ -12,6 +12,7 @@ $BootstrapMenus = array(
 			)),
 			'[[Categorias|Categorias]]',
 			'[[RecentChanges|Recentemente modificados]]',
+			'[[Sobre]]',
 			array('Perfil' => array(
 				'[[<<username>>|Minha página de Usuario]]',
 				'[[UserSettings|Configurações]]',
@@ -20,6 +21,7 @@ $BootstrapMenus = array(
 		),
 		'user' => array(
 			'[[Categorias|Categorias]]',
+            '[[Sobre]]',
 			array('Perfil' => array(
 				'[[<<username>>|Minha página de usuario]]',
 				'[[UserSettings|Configurações]]',
@@ -28,6 +30,7 @@ $BootstrapMenus = array(
 		),
 		'default' => array(
 			'[[Categorias|Categorias]]',
+            '[[Sobre]]',
 			'[[UserSettings|Entrar/Cadastrar-se]]',
 		)
 	),
