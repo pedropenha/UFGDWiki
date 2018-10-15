@@ -2,7 +2,69 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="735c4734-b4b0-4b82-9b14-9c4e38ba976f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/templates/bootstrap/menus.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/bootstrap/menus.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/classic/css/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/classic/css/classic.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/classic/css/print.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/classic/css/xml.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/classic/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/classic/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/classic/images/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/classic/images/ext.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/classic/images/ext_simple.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/classic/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/classic/images/mail.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/classic/images/user.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/classic/js/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/html/css/html.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/kubrick/css/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/kubrick/css/kubrick.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/kubrick/css/print.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/kubrick/css/xml.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/kubrick/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/kubrick/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/kubrick/images/body_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/kubrick/images/ext.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/kubrick/images/ext_simple.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/kubrick/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/kubrick/images/header_bl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/kubrick/images/header_br.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/kubrick/images/header_logo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/kubrick/images/header_tab.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/kubrick/images/header_tl.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/kubrick/images/header_tr.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/kubrick/images/key-point_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/kubrick/images/key-point_bl.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/kubrick/images/key-point_br.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/kubrick/images/key-point_tl.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/kubrick/images/key-point_tr.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/kubrick/images/kubrickbg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/kubrick/images/kubrickbgcolor.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/kubrick/images/kubrickbgwide.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/kubrick/images/kubrickfooter.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/kubrick/images/kubrickheader.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/kubrick/images/mail.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/kubrick/images/menu_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/kubrick/images/menu_br.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/kubrick/images/menu_tr.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/kubrick/images/user.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/light/css/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/light/css/light.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/light/css/print.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/light/css/xml.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/light/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/light/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/light/images/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/light/images/bkg.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/light/images/ext.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/light/images/ext_simple.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/light/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/light/images/mail.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/light/images/user.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/light/js/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/UFGD/MODELO%20-%20PROCESSO%20-%20TERMO%20DE%20RESPONSABILIADE%20FINANCEIRA.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/UFGD/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikka.config.php" beforeDir="false" afterPath="$PROJECT_DIR$/wikka.config.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,30 +76,31 @@
     <session id="-1963030768">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="php" value="4" />
+          <entry key="php" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PHP" value="4" />
+          <entry key="PHP" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="php" value="272" />
+          <entry key="php" value="279" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PHP" value="272" />
+          <entry key="PHP" value="279" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -51,20 +114,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/handlers/edit/edit.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="96" column="2" selection-start-line="96" selection-start-column="2" selection-end-line="96" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/templates/bootstrap/menus.php">
+        <entry file="file://$PROJECT_DIR$/wikka.config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+            <state relative-caret-position="863">
+              <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
             </state>
           </provider>
         </entry>
@@ -87,6 +141,7 @@
         <option value="$PROJECT_DIR$/actions/newpage/newpage.php" />
         <option value="$PROJECT_DIR$/handlers/edit/edit.php" />
         <option value="$PROJECT_DIR$/templates/bootstrap/menus.php" />
+        <option value="$PROJECT_DIR$/wikka.config.php" />
       </list>
     </option>
   </component>
@@ -115,7 +170,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -123,26 +177,16 @@
               <item name="UFGDWiki" type="b2602c69:ProjectViewProjectNode" />
               <item name="UFGDWiki" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="UFGDWiki" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UFGDWiki" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UFGDWiki" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UFGDWiki" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cadastros" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
@@ -171,16 +215,17 @@
       <updated>1539559814104</updated>
       <workItem from="1539559815304" duration="1586000" />
       <workItem from="1539567112926" duration="249000" />
+      <workItem from="1539629765628" duration="167000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1835000" />
+    <option name="totallyTimeSpent" value="2002000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2524013" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25506938" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -217,7 +262,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/handlers/edit/edit.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="969">
           <caret line="96" column="2" selection-start-line="96" selection-start-column="2" selection-end-line="96" selection-end-column="2" />
         </state>
       </provider>
@@ -226,6 +271,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wikka.config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="863">
+          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
         </state>
       </provider>
     </entry>
