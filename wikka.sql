@@ -1,11 +1,11 @@
 -- phpMyAdmin SQL Dump
--- version 4.6.6deb4
+-- version 4.6.6deb5
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost:3306
--- Generation Time: 14-Out-2018 às 21:02
--- Versão do servidor: 10.1.26-MariaDB-0+deb9u1
--- PHP Version: 7.0.30-0+deb9u1
+-- Generation Time: 15-Out-2018 às 00:26
+-- Versão do servidor: 10.1.29-MariaDB-6+b1
+-- PHP Version: 7.0.29-1+b1
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
@@ -404,8 +404,8 @@ INSERT INTO `pages` (`id`, `tag`, `title`, `time`, `body`, `owner`, `user`, `lat
 (174, 'Medicina', '', '2018-10-14 18:16:41', '{{Category col=\"1\"}}\n[[FCS]]', 'PedroPenha', 'PedroPenha', 'Y', ''),
 (175, 'Nutrição', '', '2018-10-14 18:16:53', '{{Category col=\"1\"}}\n[[FCS]]', 'PedroPenha', 'PedroPenha', 'Y', ''),
 (176, 'Nutrição', '', '2018-10-14 18:16:53', '{{Category col=\"1\"}}\n[[FCS]]', 'PedroPenha', 'PedroPenha', 'Y', ''),
-(177, 'Artes Cênicas', '', '2018-10-14 18:17:18', '{{Category col=\"1\"}}\n[[FACALE]]', 'PedroPenha', 'PedroPenha', 'Y', ''),
-(178, 'Artes Cênicas', '', '2018-10-14 18:17:18', '{{Category col=\"1\"}}\n[[FACALE]]', 'PedroPenha', 'PedroPenha', 'Y', ''),
+(177, 'Artes Cênicas', '', '2018-10-14 18:17:18', '{{Category col=\"1\"}}\n[[FACALE]]', 'PedroPenha', 'PedroPenha', 'N', ''),
+(178, 'Artes Cênicas', '', '2018-10-14 18:17:18', '{{Category col=\"1\"}}\n[[FACALE]]', 'PedroPenha', 'PedroPenha', 'N', ''),
 (179, 'Letras', '', '2018-10-14 18:17:35', '{{Category col=\"1\"}}\n[[FACALE]]', 'PedroPenha', 'PedroPenha', 'Y', ''),
 (180, 'Letras', '', '2018-10-14 18:17:35', '{{Category col=\"1\"}}\n[[FACALE]]', 'PedroPenha', 'PedroPenha', 'Y', ''),
 (181, 'Direito', '', '2018-10-14 18:17:59', '{{Category col=\"1\"}}\n[[FADIR]]', 'PedroPenha', 'PedroPenha', 'Y', ''),
@@ -448,10 +448,22 @@ INSERT INTO `pages` (`id`, `tag`, `title`, `time`, `body`, `owner`, `user`, `lat
 (218, 'Modificados', '', '2018-10-14 18:28:47', 'Recentemente Modificados\n', 'PedroPenha', 'PedroPenha', 'Y', ''),
 (219, 'PedroPenha', '', '2018-10-14 18:33:39', 'Amante de hardware, encontrou na programação uma forma de se aprofundar ainda mais no hardware, busca conhecimento em diversas áreas da programação, mas com foco em programação web.', 'PedroPenha', 'PedroPenha', 'Y', ''),
 (220, 'PedroPenha', '', '2018-10-14 18:33:39', 'Amante de hardware, encontrou na programação uma forma de se aprofundar ainda mais no hardware, busca conhecimento em diversas áreas da programação, mas com foco em programação web.', 'PedroPenha', 'PedroPenha', 'Y', ''),
-(221, 'Sobre', 'Sobre o sistema', '2018-10-14 20:00:34', '====Sobre o sistema====', 'PedroPenha', 'PedroPenha', 'N', ''),
-(222, 'Sobre', 'Sobre o sistema', '2018-10-14 20:00:34', '====Sobre o sistema====', 'PedroPenha', 'PedroPenha', 'N', ''),
-(223, 'Sobre', 'Sobre o sistema', '2018-10-14 20:02:02', '====Sobre o sistema====\n\nEsta Wiki foi desenvolvida com o propósito de propagar informações dentro e fora da UFGD, por conta disto, foi pensado em todo um ambiente seguro para quem acessa, aqui você poderá encontrar informações sobre o sistema que roda por baixo da wiki, divirta-se **adquirindo** e **compartilhando **conhecimento.', 'PedroPenha', 'PedroPenha', 'Y', ''),
-(224, 'Sobre', 'Sobre o sistema', '2018-10-14 20:02:02', '====Sobre o sistema====\n\nEsta Wiki foi desenvolvida com o propósito de propagar informações dentro e fora da UFGD, por conta disto, foi pensado em todo um ambiente seguro para quem acessa, aqui você poderá encontrar informações sobre o sistema que roda por baixo da wiki, divirta-se **adquirindo** e **compartilhando **conhecimento.', 'PedroPenha', 'PedroPenha', 'Y', '');
+(221, 'Sobre', '', '2018-10-14 19:31:04', 'Aqui contém o conteúdo sobre a wiki, o sistema utilizado, o tempo gasto, como foi implementado e tudo o que for de interessante inserir, divirta-se.', 'PedroPenha', 'PedroPenha', 'Y', ''),
+(222, 'Sobre', '', '2018-10-14 19:31:04', 'Aqui contém o conteúdo sobre a wiki, o sistema utilizado, o tempo gasto, como foi implementado e tudo o que for de interessante inserir, divirta-se.', 'PedroPenha', 'PedroPenha', 'Y', ''),
+(223, 'Artes Cênicas', 'Titulo muito grande', '2018-10-14 19:48:16', '{{Category col=\"1\"}}\n[[FACALE]]\n\n======Titulo muito grande======\n=====Titulo grande=====\n====Titulo médio====\n===Titulo pequeno===\n==Titulo muito pequeno==\n\n**Negrito**\n\n//Itálico//\n\n__Sublinhado__\n\n++Riscado++\n\n{{color text=\"Insira seu texto aqui e em c adicione a cor em ingles\" c=\"red\"}}\n\n##monospace##', 'PedroPenha', 'PedroPenha', 'N', ''),
+(224, 'Artes Cênicas', 'Titulo muito grande', '2018-10-14 19:48:16', '{{Category col=\"1\"}}\n[[FACALE]]\n\n======Titulo muito grande======\n=====Titulo grande=====\n====Titulo médio====\n===Titulo pequeno===\n==Titulo muito pequeno==\n\n**Negrito**\n\n//Itálico//\n\n__Sublinhado__\n\n++Riscado++\n\n{{color text=\"Insira seu texto aqui e em c adicione a cor em ingles\" c=\"red\"}}\n\n##monospace##', 'PedroPenha', 'PedroPenha', 'N', ''),
+(225, 'Artes Cênicas', 'Titulo muito grande', '2018-10-14 19:48:56', '{{Category col=\"1\"}}\n[[FACALE]]\n\n======Titulo muito grande======\n=====Titulo grande=====\n====Titulo médio====\n===Titulo pequeno===\n==Titulo muito pequeno==\n\n**Negrito**\n\n//Itálico//\n\n__Sublinhado__\n\n++Riscado++\n\n{{color text=\"Insira seu texto aqui e em c adicione a cor em ingles\" c=\"red\"}}\n\n##mono-espaçado##\n\n\'\'oi\'\'', 'PedroPenha', 'PedroPenha', 'N', ''),
+(226, 'Artes Cênicas', 'Titulo muito grande', '2018-10-14 19:48:56', '{{Category col=\"1\"}}\n[[FACALE]]\n\n======Titulo muito grande======\n=====Titulo grande=====\n====Titulo médio====\n===Titulo pequeno===\n==Titulo muito pequeno==\n\n**Negrito**\n\n//Itálico//\n\n__Sublinhado__\n\n++Riscado++\n\n{{color text=\"Insira seu texto aqui e em c adicione a cor em ingles\" c=\"red\"}}\n\n##mono-espaçado##\n\n\'\'oi\'\'', 'PedroPenha', 'PedroPenha', 'N', ''),
+(227, 'Artes Cênicas', 'Titulo muito grande', '2018-10-14 19:49:38', '{{Category col=\"1\"}}\n[[FACALE]]\n\n======Titulo muito grande======\n=====Titulo grande=====\n====Titulo médio====\n===Titulo pequeno===\n==Titulo muito pequeno==\n\n**Negrito**\n\n//Itálico//\n\n__Sublinhado__\n\n++Riscado++\n\n{{color text=\"Insira seu texto aqui e em c adicione a cor em ingles\" c=\"red\"}}\n\n##mono-espaçado##\n\n\'\'Realçar\'\'\n\n#%oooool#%', 'PedroPenha', 'PedroPenha', 'N', ''),
+(228, 'Artes Cênicas', 'Titulo muito grande', '2018-10-14 19:49:38', '{{Category col=\"1\"}}\n[[FACALE]]\n\n======Titulo muito grande======\n=====Titulo grande=====\n====Titulo médio====\n===Titulo pequeno===\n==Titulo muito pequeno==\n\n**Negrito**\n\n//Itálico//\n\n__Sublinhado__\n\n++Riscado++\n\n{{color text=\"Insira seu texto aqui e em c adicione a cor em ingles\" c=\"red\"}}\n\n##mono-espaçado##\n\n\'\'Realçar\'\'\n\n#%oooool#%', 'PedroPenha', 'PedroPenha', 'N', ''),
+(229, 'Artes Cênicas', 'Titulo muito grande', '2018-10-14 19:49:53', '{{Category col=\"1\"}}\n[[FACALE]]\n\n======Titulo muito grande======\n=====Titulo grande=====\n====Titulo médio====\n===Titulo pequeno===\n==Titulo muito pequeno==\n\n**Negrito**\n\n//Itálico//\n\n__Sublinhado__\n\n++Riscado++\n\n{{color text=\"Insira seu texto aqui e em c adicione a cor em ingles\" c=\"red\"}}\n\n##mono-espaçado##\n\n\'\'Realçar\'\'\n\n#%oooool não sei o que faz#%', 'PedroPenha', 'PedroPenha', 'N', ''),
+(230, 'Artes Cênicas', 'Titulo muito grande', '2018-10-14 19:49:53', '{{Category col=\"1\"}}\n[[FACALE]]\n\n======Titulo muito grande======\n=====Titulo grande=====\n====Titulo médio====\n===Titulo pequeno===\n==Titulo muito pequeno==\n\n**Negrito**\n\n//Itálico//\n\n__Sublinhado__\n\n++Riscado++\n\n{{color text=\"Insira seu texto aqui e em c adicione a cor em ingles\" c=\"red\"}}\n\n##mono-espaçado##\n\n\'\'Realçar\'\'\n\n#%oooool não sei o que faz#%', 'PedroPenha', 'PedroPenha', 'N', ''),
+(231, 'Artes Cênicas', 'Titulo muito grande', '2018-10-14 19:51:25', '{{Category col=\"1\"}}\n[[FACALE]]\n\n======Titulo muito grande======\n=====Titulo grande=====\n====Titulo médio====\n===Titulo pequeno===\n==Titulo muito pequeno==\n\n**Negrito**\n\n//Itálico//\n\n__Sublinhado__\n\n++Riscado++\n\n{{color text=\"Insira seu texto aqui e em c adicione a cor em ingles\" c=\"red\"}}\n\n##mono-espaçado##\n\n\'\'Realçar\'\'\n\n#%Chave#%\n\n<<Á direita<<\n\n>>Á esquerda>>\n\n@@Texto no centro@@\n\n	- Lista\n	1) Lista numerada\n	& 	Comentarios em linha', 'PedroPenha', 'PedroPenha', 'N', ''),
+(232, 'Artes Cênicas', 'Titulo muito grande', '2018-10-14 19:51:25', '{{Category col=\"1\"}}\n[[FACALE]]\n\n======Titulo muito grande======\n=====Titulo grande=====\n====Titulo médio====\n===Titulo pequeno===\n==Titulo muito pequeno==\n\n**Negrito**\n\n//Itálico//\n\n__Sublinhado__\n\n++Riscado++\n\n{{color text=\"Insira seu texto aqui e em c adicione a cor em ingles\" c=\"red\"}}\n\n##mono-espaçado##\n\n\'\'Realçar\'\'\n\n#%Chave#%\n\n<<Á direita<<\n\n>>Á esquerda>>\n\n@@Texto no centro@@\n\n	- Lista\n	1) Lista numerada\n	& 	Comentarios em linha', 'PedroPenha', 'PedroPenha', 'N', ''),
+(233, 'Artes Cênicas', 'Titulo muito grande', '2018-10-14 19:51:40', '{{Category col=\"1\"}}\n[[FACALE]]\n\n======Titulo muito grande======\n=====Titulo grande=====\n====Titulo médio====\n===Titulo pequeno===\n==Titulo muito pequeno==\n\n**Negrito**\n\n//Itálico//\n\n__Sublinhado__\n\n++Riscado++\n\n{{color text=\"Insira seu texto aqui e em c adicione a cor em ingles\" c=\"red\"}}\n\n##mono-espaçado##\n\n\'\'Realçar\'\'\n\n#%Chave#%\n\n<<Á direita<<\n\n>>Á esquerda>>\n\n@@Texto no centro@@\n\n	- Lista\n	1) Lista numerada\n	& 	Comentarios em linha\n	& oooooo', 'PedroPenha', 'PedroPenha', 'N', ''),
+(234, 'Artes Cênicas', 'Titulo muito grande', '2018-10-14 19:51:40', '{{Category col=\"1\"}}\n[[FACALE]]\n\n======Titulo muito grande======\n=====Titulo grande=====\n====Titulo médio====\n===Titulo pequeno===\n==Titulo muito pequeno==\n\n**Negrito**\n\n//Itálico//\n\n__Sublinhado__\n\n++Riscado++\n\n{{color text=\"Insira seu texto aqui e em c adicione a cor em ingles\" c=\"red\"}}\n\n##mono-espaçado##\n\n\'\'Realçar\'\'\n\n#%Chave#%\n\n<<Á direita<<\n\n>>Á esquerda>>\n\n@@Texto no centro@@\n\n	- Lista\n	1) Lista numerada\n	& 	Comentarios em linha\n	& oooooo', 'PedroPenha', 'PedroPenha', 'N', ''),
+(235, 'Artes Cênicas', 'Titulo muito grande', '2018-10-14 19:54:29', '{{Category col=\"1\"}}\n[[FACALE]]\n\n======Titulo muito grande======\n=====Titulo grande=====\n====Titulo médio====\n===Titulo pequeno===\n==Titulo muito pequeno==\n\n**Negrito**\n\n//Itálico//\n\n__Sublinhado__\n\n++Riscado++\n\n{{color text=\"Insira seu texto aqui e em c adicione a cor em ingles\" c=\"red\"}}\n\n##mono-espaçado##\n\n\'\'Realçar\'\'\n\n#%Chave#%\n\n<<Á direita<<\n\n>>Á esquerda>>\n\n@@Texto no centro@@\n\n	- Lista\n	1) Lista numerada\n	\n Linha horizontal\n----\n[[https://ufgd.edu.br Link externo]]\n\n{{image url=\"egressos.16mb.com/favicon.png\" title=\"Imagem logo ufgd\" alt=\"Imagem\"}}\n\n|=|Cabeçalho 1|=|Cabeçalho 2||\n||Celulas||Celulas||\n\n\"\"<p>Inserção especial de código HTML</p>\"\"\n\n%%(C)\nprintf(\"Inserção especial de códigos\");\n%%', 'PedroPenha', 'PedroPenha', 'Y', ''),
+(236, 'Artes Cênicas', 'Titulo muito grande', '2018-10-14 19:54:29', '{{Category col=\"1\"}}\n[[FACALE]]\n\n======Titulo muito grande======\n=====Titulo grande=====\n====Titulo médio====\n===Titulo pequeno===\n==Titulo muito pequeno==\n\n**Negrito**\n\n//Itálico//\n\n__Sublinhado__\n\n++Riscado++\n\n{{color text=\"Insira seu texto aqui e em c adicione a cor em ingles\" c=\"red\"}}\n\n##mono-espaçado##\n\n\'\'Realçar\'\'\n\n#%Chave#%\n\n<<Á direita<<\n\n>>Á esquerda>>\n\n@@Texto no centro@@\n\n	- Lista\n	1) Lista numerada\n	\n Linha horizontal\n----\n[[https://ufgd.edu.br Link externo]]\n\n{{image url=\"egressos.16mb.com/favicon.png\" title=\"Imagem logo ufgd\" alt=\"Imagem\"}}\n\n|=|Cabeçalho 1|=|Cabeçalho 2||\n||Celulas||Celulas||\n\n\"\"<p>Inserção especial de código HTML</p>\"\"\n\n%%(C)\nprintf(\"Inserção especial de códigos\");\n%%', 'PedroPenha', 'PedroPenha', 'Y', '');
 
 -- --------------------------------------------------------
 
@@ -471,7 +483,11 @@ CREATE TABLE `referrers` (
 
 INSERT INTO `referrers` (`page_tag`, `referrer`, `time`) VALUES
 ('Do', 'http://localhost/wikki/?installAction=writeconfig', '2018-08-16 23:35:33'),
-('Do', 'http://localhost/wikki/?installAction=writeconfig', '2018-08-16 23:35:33');
+('Do', 'http://localhost/wikki/?installAction=writeconfig', '2018-08-16 23:35:33'),
+('UFGD', 'http://192.168.25.82/cadastros/', '2018-10-14 23:20:57'),
+('UFGD', 'http://192.168.25.82/cadastros/', '2018-10-14 23:20:57'),
+('UFGD', 'http://192.168.25.82/cadastros/', '2018-10-14 23:21:07'),
+('UFGD', 'http://192.168.25.82/cadastros/', '2018-10-14 23:21:07');
 
 -- --------------------------------------------------------
 
@@ -524,7 +540,7 @@ CREATE TABLE `users` (
 INSERT INTO `users` (`name`, `password`, `email`, `revisioncount`, `changescount`, `doubleclickedit`, `signuptime`, `show_comments`, `status`, `theme`, `default_comment_display`, `challenge`, `nivel`) VALUES
 ('PedroPenha', '3299071565c6a66fa1504760c6991acb', 'pedroe8@hotmail.com', 20, 50, 'Y', '2018-08-16 23:35:03', 'N', NULL, '', 3, '45f5de98', 1),
 ('WikkaInstaller', '3299071565c6a66fa1504760c6991acb', 'pedroe8@hotmail.com', 20, 50, 'Y', '2018-08-16 23:35:03', 'N', NULL, '', 3, '45f5de98', 1),
-('Teste', '25d55ad283aa400af464c76d713c07ad', 'teste@teste.com', 20, 50, 'Y', '2018-10-14 18:49:33', 'N', NULL, '', 3, '', 2);
+('Teste', '25d55ad283aa400af464c76d713c07ad', 'teste@teste.com', 20, 50, 'Y', '2018-10-14 23:16:47', 'N', NULL, '', 3, '', 2);
 
 --
 -- Indexes for dumped tables
@@ -601,7 +617,7 @@ ALTER TABLE `comments`
 -- AUTO_INCREMENT for table `pages`
 --
 ALTER TABLE `pages`
-  MODIFY `id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=225;
+  MODIFY `id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=239;
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;

@@ -13,6 +13,7 @@ $BootstrapMenus = array(
 			'[[Categorias|Categorias]]',
 			'[[RecentChanges|Recentemente modificados]]',
 			'[[Sobre]]',
+			'[[http://192.168.25.82/cadastros|Suporte]]',
 			array('Perfil' => array(
 				'[[<<username>>|Minha página de Usuario]]',
 				'[[UserSettings|Configurações]]',
