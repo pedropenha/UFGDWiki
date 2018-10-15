@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost:3306
--- Generation Time: 14-Out-2018 às 20:18
+-- Generation Time: 14-Out-2018 às 21:02
 -- Versão do servidor: 10.1.26-MariaDB-0+deb9u1
 -- PHP Version: 7.0.30-0+deb9u1
 
@@ -447,7 +447,11 @@ INSERT INTO `pages` (`id`, `tag`, `title`, `time`, `body`, `owner`, `user`, `lat
 (217, 'Modificados', '', '2018-10-14 18:28:47', 'Recentemente Modificados\n', 'PedroPenha', 'PedroPenha', 'Y', ''),
 (218, 'Modificados', '', '2018-10-14 18:28:47', 'Recentemente Modificados\n', 'PedroPenha', 'PedroPenha', 'Y', ''),
 (219, 'PedroPenha', '', '2018-10-14 18:33:39', 'Amante de hardware, encontrou na programação uma forma de se aprofundar ainda mais no hardware, busca conhecimento em diversas áreas da programação, mas com foco em programação web.', 'PedroPenha', 'PedroPenha', 'Y', ''),
-(220, 'PedroPenha', '', '2018-10-14 18:33:39', 'Amante de hardware, encontrou na programação uma forma de se aprofundar ainda mais no hardware, busca conhecimento em diversas áreas da programação, mas com foco em programação web.', 'PedroPenha', 'PedroPenha', 'Y', '');
+(220, 'PedroPenha', '', '2018-10-14 18:33:39', 'Amante de hardware, encontrou na programação uma forma de se aprofundar ainda mais no hardware, busca conhecimento em diversas áreas da programação, mas com foco em programação web.', 'PedroPenha', 'PedroPenha', 'Y', ''),
+(221, 'Sobre', 'Sobre o sistema', '2018-10-14 20:00:34', '====Sobre o sistema====', 'PedroPenha', 'PedroPenha', 'N', ''),
+(222, 'Sobre', 'Sobre o sistema', '2018-10-14 20:00:34', '====Sobre o sistema====', 'PedroPenha', 'PedroPenha', 'N', ''),
+(223, 'Sobre', 'Sobre o sistema', '2018-10-14 20:02:02', '====Sobre o sistema====\n\nEsta Wiki foi desenvolvida com o propósito de propagar informações dentro e fora da UFGD, por conta disto, foi pensado em todo um ambiente seguro para quem acessa, aqui você poderá encontrar informações sobre o sistema que roda por baixo da wiki, divirta-se **adquirindo** e **compartilhando **conhecimento.', 'PedroPenha', 'PedroPenha', 'Y', ''),
+(224, 'Sobre', 'Sobre o sistema', '2018-10-14 20:02:02', '====Sobre o sistema====\n\nEsta Wiki foi desenvolvida com o propósito de propagar informações dentro e fora da UFGD, por conta disto, foi pensado em todo um ambiente seguro para quem acessa, aqui você poderá encontrar informações sobre o sistema que roda por baixo da wiki, divirta-se **adquirindo** e **compartilhando **conhecimento.', 'PedroPenha', 'PedroPenha', 'Y', '');
 
 -- --------------------------------------------------------
 
@@ -597,7 +601,7 @@ ALTER TABLE `comments`
 -- AUTO_INCREMENT for table `pages`
 --
 ALTER TABLE `pages`
-  MODIFY `id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=221;
+  MODIFY `id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=225;
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
