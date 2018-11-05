@@ -2,71 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="735c4734-b4b0-4b82-9b14-9c4e38ba976f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/classic/css/.htaccess" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/classic/css/classic.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/classic/css/print.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/classic/css/xml.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/classic/footer.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/classic/header.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/classic/images/.htaccess" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/classic/images/ext.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/classic/images/ext_simple.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/classic/images/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/classic/images/mail.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/classic/images/user.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/classic/js/.htaccess" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/html/css/html.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/kubrick/css/.htaccess" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/kubrick/css/kubrick.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/kubrick/css/print.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/kubrick/css/xml.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/kubrick/footer.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/kubrick/header.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/kubrick/images/body_back.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/kubrick/images/ext.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/kubrick/images/ext_simple.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/kubrick/images/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/kubrick/images/header_bl.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/kubrick/images/header_br.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/kubrick/images/header_logo.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/kubrick/images/header_tab.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/kubrick/images/header_tl.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/kubrick/images/header_tr.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/kubrick/images/key-point_back.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/kubrick/images/key-point_bl.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/kubrick/images/key-point_br.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/kubrick/images/key-point_tl.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/kubrick/images/key-point_tr.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/kubrick/images/kubrickbg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/kubrick/images/kubrickbgcolor.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/kubrick/images/kubrickbgwide.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/kubrick/images/kubrickfooter.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/kubrick/images/kubrickheader.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/kubrick/images/mail.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/kubrick/images/menu_back.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/kubrick/images/menu_br.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/kubrick/images/menu_tr.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/kubrick/images/user.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/light/css/.htaccess" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/light/css/light.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/light/css/print.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/light/css/xml.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/light/footer.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/light/header.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/light/images/.htaccess" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/light/images/bkg.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/light/images/ext.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/light/images/ext_simple.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/light/images/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/light/images/mail.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/light/images/user.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/light/js/.htaccess" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/UFGD/MODELO%20-%20PROCESSO%20-%20TERMO%20DE%20RESPONSABILIADE%20FINANCEIRA.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/UFGD/header.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wikka.config.php" beforeDir="false" afterPath="$PROJECT_DIR$/wikka.config.php" afterDir="false" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/pedro.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/UFGDWiki.iml" afterPath="$PROJECT_DIR$/.idea/UFGDWiki.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/bootstrap/menus.php" afterPath="$PROJECT_DIR$/templates/bootstrap/menus.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wikka.config.php" afterPath="$PROJECT_DIR$/wikka.config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wikka.sql" afterPath="$PROJECT_DIR$/wikka.sql" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,31 +23,32 @@
     <session id="-1963030768">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.9" value="4" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="php" value="5" />
+          <entry key="php" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PHP" value="5" />
+          <entry key="PHP" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="php" value="279" />
+          <entry key="php" value="397" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PHP" value="279" />
+          <entry key="PHP" value="397" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -114,11 +62,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file leaf-file-name="wikka.config.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wikka.config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="863">
-              <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+            <state relative-caret-position="388">
+              <caret line="72" column="26" lean-forward="false" selection-start-line="72" selection-start-column="26" selection-end-line="72" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="menus.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/bootstrap/menus.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="32" column="15" lean-forward="false" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="15" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -160,36 +119,48 @@
   <component name="PhpServers">
     <servers />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="275" />
     <option name="width" value="1336" />
     <option name="height" value="694" />
   </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Angular</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="UFGDWiki" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UFGDWiki" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../suporte" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -202,6 +173,9 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -216,34 +190,39 @@
       <workItem from="1539559815304" duration="1586000" />
       <workItem from="1539567112926" duration="249000" />
       <workItem from="1539629765628" duration="167000" />
+      <workItem from="1539723518930" duration="3000" />
+      <workItem from="1539796731179" duration="616000" />
+      <workItem from="1540216836890" duration="1170000" />
+      <workItem from="1540824730532" duration="102000" />
+      <workItem from="1541163302596" duration="92000" />
+      <workItem from="1541163477631" duration="12000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2002000" />
+    <option name="totallyTimeSpent" value="3997000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
+    <frame x="275" y="0" width="1366" height="718" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25506938" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,32 +231,70 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wikka.config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/bootstrap/menus.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="15" lean-forward="false" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wikka.config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="76" column="2" lean-forward="false" selection-start-line="76" selection-start-column="2" selection-end-line="76" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/bootstrap/menus.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="15" lean-forward="false" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/actions/newpage/newpage.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="611">
-          <caret line="84" selection-start-line="84" selection-end-line="84" />
+          <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/handlers/edit/edit.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="969">
-          <caret line="96" column="2" selection-start-line="96" selection-start-column="2" selection-end-line="96" selection-end-column="2" />
+          <caret line="96" column="2" lean-forward="false" selection-start-line="96" selection-start-column="2" selection-end-line="96" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/bootstrap/menus.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+        <state relative-caret-position="544">
+          <caret line="32" column="15" lean-forward="false" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="15" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wikka.config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="863">
-          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+        <state relative-caret-position="388">
+          <caret line="72" column="26" lean-forward="false" selection-start-line="72" selection-start-column="26" selection-end-line="72" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
