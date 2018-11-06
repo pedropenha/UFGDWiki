@@ -17,7 +17,7 @@ $BootstrapMenus = array(
                 '[[Contato]]',
                 '[[Sobre]]',
             )),
-			'[[http://192.168.25.82/cadastros|Suporte]]',
+			'[[http://192.168.25.82/cadastros|Administração]]',
 			array('Perfil' => array(
 				'[[<<username>>|Minha página de Usuario]]',
 				'[[UserSettings|Configurações]]',
@@ -31,6 +31,7 @@ $BootstrapMenus = array(
                 '[[Contato]]',
                 '[[Sobre]]',
             )),
+            '[[http://192.168.25.82/suporte|Suporte]]',
 			array('Perfil' => array(
 				'[[<<username>>|Minha página de usuario]]',
 				'[[UserSettings|Configurações]]',
@@ -40,7 +41,7 @@ $BootstrapMenus = array(
 		'default' => array(
 			'[[Categorias|Categorias]]',
             '[[Sobre]]',
-			'[[UserSettings|Entrar/Cadastrar-se]]',
+			'[[UserSettings|Entrar]]',
 		)
 	),
 
