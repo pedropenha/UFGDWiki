@@ -40,7 +40,11 @@ $BootstrapMenus = array(
 		),
 		'default' => array(
 			'[[Categorias|Categorias]]',
-            '[[Sobre]]',
+            array('Sobre' => array(
+                '[[Ajuda]]',
+                '[[Contato]]',
+                '[[Sobre]]',
+            )),
 			'[[UserSettings|Entrar]]',
 		)
 	),
